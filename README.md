@@ -1,1 +1,2 @@
-# Lab_Takip_VeriTabani_Tasarimi
+#  ER diyagram  Design 
+Laboratuvar İş takip Sistemi  Veritabanı tasarımı
